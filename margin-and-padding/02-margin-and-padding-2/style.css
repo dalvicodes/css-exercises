@@ -16,6 +16,11 @@ body {
   background: #e3f4ff;
 }
 
+.title,
+.content {
+  margin-bottom: 8px;
+}
+
 button {
   background: white;
   border: 1px solid #eee;
