@@ -10,14 +10,8 @@ body {
   padding: 8px;
 }
 
-.title {
-  background: #e3f4ff;
-}
-
-.content {
-  background: #e3f4ff;
-}
-
+.title,
+.content,
 .button-container {
   background: #e3f4ff;
 }
