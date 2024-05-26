@@ -26,6 +26,10 @@ body {
   padding: 8px;
 }
 
+.content {
+  padding: 16px 8px;
+}
+
 button {
   background: white;
   border: 1px solid #eee;
