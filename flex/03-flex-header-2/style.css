@@ -38,6 +38,7 @@ button {
   border-radius: 8px;
   background: rebeccapurple;
   color: white;
+  margin-left: auto;
   padding: 8px 24px;
 }
 
