@@ -48,6 +48,7 @@ a {
 
 .links {
   list-style-type: none;
+  margin: 0;
   padding: 8px;
   display: flex;
   gap: 8px;
