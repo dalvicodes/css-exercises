@@ -46,8 +46,9 @@ a {
   color: rebeccapurple;
 }
 
-ul {
+.links {
   list-style-type: none;
+  padding: 8px;
   display: flex;
   gap: 8px;
 }
